@@ -1,4 +1,4 @@
-У першу чергу необхідно скомпілювати проект прикріпивши до нього бібліотеку Xposed Framework. 
+У першу чергу необхідно скомпілювати проект прикріпивши до нього бібліотеку Xposed Framework. Детальніше про це можна прочитати на сайті розробників: https://github.com/rovo89/XposedBridge/wiki/Development-tutorial
 
 1.	Встановлення apk файлу XPosed Framework. Його завантажують з офіційного сайту розробників: 
 http://repo.xposed.info/module/de.robv.android.xposed.installer
